@@ -1,0 +1,2 @@
+git reset - come back to the previous commit
+git reset --soft
